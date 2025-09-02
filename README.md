@@ -84,10 +84,13 @@ This project is licensed under the MIT License.
 
 <img width="369" height="154" alt="printscreentable" src="https://github.com/user-attachments/assets/fa9f356c-c3c4-4f08-b17b-87764b756c04" />
 
+
 <img width="350" height="268" alt="exceltable" src="https://github.com/user-attachments/assets/7b07178c-3878-4955-89da-b3146ab417fb" />
 
 
+
 <img width="565" height="165" alt="table" src="https://github.com/user-attachments/assets/0f187166-1c3f-4d1b-b55c-f854966c5f6c" />
+
 
 
 <img width="657" height="192" alt="mode_median_mean" src="https://github.com/user-attachments/assets/29d7580a-a846-47ef-a381-1703b6a4d28f" />

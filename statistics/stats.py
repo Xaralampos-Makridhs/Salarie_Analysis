@@ -28,7 +28,7 @@ total_row = {
 
 df = pd.concat([df, pd.DataFrame([total_row])], ignore_index=True)  # Append the total row to the DataFrame
 
-print(df) #Prinths  Excel table
+print(df) #Prints Excel table
 
 #Save the updates
 df.to_excel(file_path, index=False)
@@ -42,4 +42,5 @@ plt.title('Cumulative Frequency Line Chart by Salary Class')  # Chart title
 plt.xticks(rotation=45)  # Rotate x-axis labels for better readability
 plt.grid(True)  # Show grid
 plt.tight_layout()  # Adjust layout to prevent overlap
+
 plt.show()  # Display the plot

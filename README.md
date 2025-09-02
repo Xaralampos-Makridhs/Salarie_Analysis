@@ -1,4 +1,4 @@
-# Salarie_Analysis
+# Salarie Analysis
 
 This project analyzes salary data by reading an Excel table of salary classes and the number of people in each class, then computes key statistics and visualizations. The workflow includes transforming the table with statistical calculations and producing a cumulative frequency chart.
 
